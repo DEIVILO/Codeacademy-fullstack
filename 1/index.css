@@ -1,0 +1,32 @@
+.heading {
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url('img/pattern.webp');
+    background-size: cover;
+    background-position: center;
+}
+
+#brushes h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+span {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+#frames h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}

@@ -1,0 +1,96 @@
+header img {
+    padding: 10px;
+    height: 50px;
+}
+
+header {
+    display: flex;
+    height: 69px;
+    position: fixed;
+    border-bottom: 1px solid seashell;
+    text-align: center;
+    width: 100%;
+}
+
+header a{
+    text-decoration: underline;
+    margin-right: auto;
+}
+
+body {
+    background-color: black;
+}
+
+a,
+h1,
+h3,
+h4,
+p {
+    font-family: Helvetica, sans-serif;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    font-size: 22px;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    font-size: 30px;
+}
+
+nav {
+    text-align: right;
+    margin-left: auto;
+    padding: 20px;
+}
+
+#pirmabilde img {
+    padding-top: 70px;
+    height: 700px;
+    width: 1200px;
+    z-index: 2;
+    display: flex;
+    margin: auto;
+    opacity: 55%;
+}
+
+#teksts {
+    text-align: center;
+    background-color: black;
+    z-index: 10;
+    margin-top: -350px;
+    position: relative;
+}
+
+
+#otra {
+    width: 1000px;
+    margin: 20px auto;
+    position: relative;
+    top: 350px;
+    text-align: relative;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+}
+
+#otra img {
+    height: 200px;
+    width: 300px;
+}
+
+.tea-item {
+    margin: 10px;
+    text-align: center;
+}
+
+#teksts2 {
+    width: 1000px;
+    margin: 20px auto;
+    position: relative;
+    top: 350px;
+    text-align: center;
+}
